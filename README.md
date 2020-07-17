@@ -1,2 +1,2 @@
 # EKS-task
-All YAML files required for building complete application on AWS cloud using EKS service are available in this repository.
+All YAML files required for building complete application on AWS-EKS architecture are available in this repository.
